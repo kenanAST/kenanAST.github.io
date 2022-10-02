@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.574e1546.css",
+    "main.js": "/static/js/main.8ba41c1d.js",
+    "static/js/787.407fa3eb.chunk.js": "/static/js/787.407fa3eb.chunk.js",
+    "static/media/PH_2016.png": "/static/media/PH_2016.8133d568bd8676a83838.png",
+    "static/media/PH_2012.png": "/static/media/PH_2012.ddfe0bea6aa9aacf3d8f.png",
+    "static/media/ILG_CDO_2016.png": "/static/media/ILG_CDO_2016.b995f280946dacae305f.png",
+    "static/media/ILG_CDO_2012.png": "/static/media/ILG_CDO_2012.9e31747f16ca360b6d15.png",
+    "static/media/iSIGA_LOGO.png": "/static/media/iSIGA_LOGO.ece3b7f77666008a9e7c.png",
+    "static/media/Tacloban_Yolanda_HIT.png": "/static/media/Tacloban_Yolanda_HIT.ad71954a9d31b9faffca.png",
+    "static/media/Tacloban_Yolanda.png": "/static/media/Tacloban_Yolanda.d05baffe47a866ac2488.png",
+    "index.html": "/index.html",
+    "main.574e1546.css.map": "/static/css/main.574e1546.css.map",
+    "main.8ba41c1d.js.map": "/static/js/main.8ba41c1d.js.map",
+    "787.407fa3eb.chunk.js.map": "/static/js/787.407fa3eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.574e1546.css",
+    "static/js/main.8ba41c1d.js"
+  ]
+}
