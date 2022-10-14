@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="135" height="135" viewBox="0 0 135 135">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Icon" d="M42,84A42,42,0,1,1,84,42,42.048,42.048,0,0,1,42,84ZM42,8.4A33.6,33.6,0,1,0,75.6,42,33.639,33.639,0,0,0,42,8.4ZM42,63a4.2,4.2,0,1,1,4.2-4.2A4.2,4.2,0,0,1,42,63Zm0-16.8A4.2,4.2,0,0,1,37.8,42V25.2a4.2,4.2,0,1,1,8.4,0V42A4.2,4.2,0,0,1,42,46.2Z" transform="translate(-0.273 -0.483)" fill="#9c6f19"/>
+    </clipPath>
+  </defs>
+  <g id="Icon-2" data-name="Icon" transform="translate(-16 -18.79)">
+    <circle id="Oval_2_Copy_3" data-name="Oval 2 Copy 3" cx="67.5" cy="67.5" r="67.5" transform="translate(16 18.79)" fill="rgba(250,166,26,0.15)"/>
+    <g id="Icon-3" data-name="Icon" transform="translate(41.273 44.273)">
+      <circle id="Fill" cx="38" cy="38" r="38" transform="translate(3.727 4.517)" fill="#fff"/>
+      <path id="Icon-4" data-name="Icon" d="M42,84A42,42,0,1,1,84,42,42.048,42.048,0,0,1,42,84ZM42,8.4A33.6,33.6,0,1,0,75.6,42,33.639,33.639,0,0,0,42,8.4ZM42,63a4.2,4.2,0,1,1,4.2-4.2A4.205,4.205,0,0,1,42,63Zm0-16.8A4.205,4.205,0,0,1,37.8,42V25.2a4.2,4.2,0,0,1,8.4,0V42A4.205,4.205,0,0,1,42,46.2Z" transform="translate(-0.273 -0.483)" fill="#faa61a"/>
+    </g>
+  </g>
+</svg>
